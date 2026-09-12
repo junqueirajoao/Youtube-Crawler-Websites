@@ -23,7 +23,7 @@ npx playwright install chromium
 ## Estrutura do Projeto
 
 ```
-MktOps/
+Youtube-Crawler-Websites/
 ├── Crawler-Sites.js          # Script principal do crawler
 ├── package.json
 ├── urls/
